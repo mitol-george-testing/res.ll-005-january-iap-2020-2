@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7a38fe7f-9519-194b-f338-d0ffdafabc25",
+      "7a57dfd9-ca4d-dea9-296e-4faa0b7dfc86"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mathematics of Big Data and Machine Learning",
+  "course_description": "This course introduces the Dynamic Distributed Dimensional Data Model (D4M), a breakthrough in computer programming that combines graph theory, linear algebra, and databases to address problems associated with Big Data. Search, social media, ad placement, mapping, tracking, spam filtering, fraud detection, wireless communication, drug discovery, and bioinformatics all attempt to find items of interest in vast quantities of data. This course teaches a signal processing approach to these problems by combining linear algebraic graph algorithms, group theory, and database design. This approach has been implemented in software. The class will begin with a number of practical problems, introduce the appropriate theory, and then apply the theory to these problems. Students will apply these ideas in the final project of their choosing. The course will contain a number of smaller assignments which will prepare the students with appropriate software infrastructure for completing their final projects.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.LL-005",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
